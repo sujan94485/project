@@ -1,5 +1,0 @@
-print("hello")
-print("orewa sujan")
-print("my wife is monika")
-print("hi")
-print("i gonna be greatest")
